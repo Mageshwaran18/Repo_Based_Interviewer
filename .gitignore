@@ -1,0 +1,7 @@
+# Data folders
+data/fetched_repo/
+data/chunks/
+data/manifest.json
+
+# Streamlit cache
+.streamlit/
