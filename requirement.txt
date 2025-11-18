@@ -1,0 +1,15 @@
+beautifulsoup4
+python-dotenv
+requests
+python-docx
+PyPDF2
+nbformat
+pinecone-client
+pinecone-text
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+huggingface-hub
