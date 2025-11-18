@@ -1,7 +1,4 @@
-# Data folders
-data/fetched_repo/
-data/chunks/
-data/manifest.json
-
-# Streamlit cache
-.streamlit/
+.env
+main.ipynb
+data/
+__pycache__/
